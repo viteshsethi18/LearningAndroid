@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:fontFamily="@font/aclonica"
-        android:text="Create New Account"
+        android:text="Login to Existing Account"
         android:textColor="#F7F7F8"
         android:textSize="15sp"
         app:layout_constraintEnd_toEndOf="parent"
